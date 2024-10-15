@@ -1,4 +1,9 @@
-## Hi there 👋
+## Olá!! 👋
+
+## Tecnologias que eu uso
+
+- !
+  [JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
 <!--
 **CristofyMeiru/CristofyMeiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
