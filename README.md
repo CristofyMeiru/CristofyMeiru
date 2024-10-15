@@ -2,7 +2,11 @@
 
 ## Tecnologias que eu uso
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" heigth="80px" width="80px" alt="JavaScript" style="fill: #F7DF1E;" />
+<svg role="img" viewBox="0 0 24 24" fill="#F7DF1E" width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+  <title>JavaScript</title>
+  <path d="M1.5 0h21A1.5 1.5 0 0 1 24 1.5v21a1.5 1.5 0 0 1-1.5 1.5h-21A1.5 1.5 0 0 1 0 22.5v-21A1.5 1.5 0 0 1 1.5 0zm12.55 18.766c.003-.002 1.828-1.073 1.828-1.073.33.574.631 1.06 1.35 1.743.683.635 1.41.932 2.268.932.876 0 1.446-.249 1.446-1.558v-7.952h2.736v7.992c0 2.266-1.315 3.294-3.238 3.294-1.735 0-2.747-.805-3.247-1.677l-1.82 1.113a5.864 5.864 0 0 0 5.173 2.79c3.124 0 5.373-1.888 5.373-5.483v-7.952H21.86v7.992c0 2.355-1.348 3.294-3.21 3.294-1.766 0-2.778-.787-3.247-1.647l-1.8 1.113zm3.204-10.007c.76 0 1.41-.564 1.41-1.326s-.64-1.325-1.41-1.325-1.41.564-1.41 1.325.64 1.326 1.41 1.326z"/>
+</svg>
+
 <!--
 **CristofyMeiru/CristofyMeiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
