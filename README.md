@@ -3,7 +3,8 @@
 ## Principais tecnologias que eu uso
 
 <div style="display; flex;">
-  <img src="https://github.com/user-attachments/assets/1e5bb742-4887-4389-b356-a6d94b2a3e02" height="80px" width="80px" alt="JavaScript" />
+  <img src="https://github.com/user-attachments/assets/9d044417-2479-4ac1-8f98-0e89226622b2
+" height="80px" width="80px" alt="JavaScript" />
 <img src="https://github.com/user-attachments/assets/eac235ce-6f8c-426d-9702-2851b8d00bf9" heigth="80px" width="80px" alt="TypeScript" />
 
 </div>
