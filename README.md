@@ -2,8 +2,7 @@
 
 ## Tecnologias que eu uso
 
-- ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg)
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" heigth="80px" width="80px" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" heigth="80px" width="80px" alt="JavaScript" style="fill: #F7DF1E;" />
 <!--
 **CristofyMeiru/CristofyMeiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
