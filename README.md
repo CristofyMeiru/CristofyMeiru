@@ -2,7 +2,7 @@
 
 ## Tecnologias que eu uso
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+- ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg)
 
 <!--
 **CristofyMeiru/CristofyMeiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
