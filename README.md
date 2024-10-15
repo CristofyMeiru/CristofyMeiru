@@ -2,7 +2,7 @@
 
 ## Tecnologias que eu uso
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="80px" width="80px" alt="JavaScript" />
 
 
 <!--
