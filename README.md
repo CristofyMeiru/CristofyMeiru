@@ -1,9 +1,12 @@
 ## Olá!! 👋
 
-## Tecnologias que eu uso
+## Principais tecnologias que eu uso
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="80px" width="80px" alt="JavaScript" />
-<img src="https://github.com/user-attachments/assets/eac235ce-6f8c-426d-9702-2851b8d00bf9" heigth="80px" width="80px" />
+<div style="display; flex;">
+  <img src="https://github.com/user-attachments/assets/1e5bb742-4887-4389-b356-a6d94b2a3e02" height="80px" width="80px" alt="JavaScript" />
+<img src="https://github.com/user-attachments/assets/eac235ce-6f8c-426d-9702-2851b8d00bf9" heigth="80px" width="80px" alt="TypeScript" />
+
+</div>
 
 <!--
 **CristofyMeiru/CristofyMeiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
