@@ -1,11 +1,12 @@
 ## Olá!! 👋
 
+
+
 ## Principais tecnologias que eu uso
 
 <div style="display; flex; ">
-  <img src="https://github.com/user-attachments/assets/9d044417-2479-4ac1-8f98-0e89226622b2" height="80px" width="80px" alt="JavaScript" 
- style="margin-right: 5px;" />
-<img src="https://github.com/user-attachments/assets/eac235ce-6f8c-426d-9702-2851b8d00bf9" heigth="80px" width="80px" alt="TypeScript" />
+  <img src="https://github.com/user-attachments/assets/9d044417-2479-4ac1-8f98-0e89226622b2" height="40px" width="40px" alt="JavaScript" />
+<img src="https://github.com/user-attachments/assets/eac235ce-6f8c-426d-9702-2851b8d00bf9" heigth="40px" width="40px" alt="TypeScript" />
 
 </div>
 
