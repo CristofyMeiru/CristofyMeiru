@@ -9,7 +9,7 @@
   <img src="https://github.com/user-attachments/assets/eac235ce-6f8c-426d-9702-2851b8d00bf9" heigth="40px" width="40px" alt="TypeScript" style="margin-right: 10px;" />
   <img src="https://github.com/user-attachments/assets/643824fe-4c6c-480f-a708-4a30bb64d728" heigth="40px" width="40px" alt="NodeJS" style="margin-right: 10px;" />
   <img src="https://github.com/user-attachments/assets/3d748cb0-e35d-46a7-8b5a-8abeb4c439c9" heigth="40px" width="40px" alt="ReactJS" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" width="40" height="40" />
+  <img src="github.com/nextjs.png" alt="Next.js" width="40" height="40" />
 
 
 </div>
