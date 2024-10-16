@@ -8,7 +8,7 @@
   <img src="https://github.com/user-attachments/assets/9d044417-2479-4ac1-8f98-0e89226622b2" height="40px" width="40px" alt="JavaScript" style="margin-right: 10px;" />
   <img src="https://github.com/user-attachments/assets/eac235ce-6f8c-426d-9702-2851b8d00bf9" heigth="40px" width="40px" alt="TypeScript" style="margin-right: 10px;" />
   <img src="https://github.com/user-attachments/assets/643824fe-4c6c-480f-a708-4a30bb64d728" heigth="40px" width="40px" alt="NodeJS" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/d84d62ac-0b2f-41f2-8945-c5d3be2e387b" heigth="40px" width="40px" alt="ReactJS" />
+  <img src="https://github.com/user-attachments/assets/3d748cb0-e35d-46a7-8b5a-8abeb4c439c9" heigth="40px" width="40px" alt="ReactJS" />
 
 </div>
 
