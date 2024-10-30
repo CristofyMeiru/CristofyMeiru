@@ -1,6 +1,8 @@
-## Olá, bem vindo ao meu perfil!!  
+## Olá, bem vindo ao meu perfil!!  👋
 
-![Emoji mão acenando](https://media.giphy.com/media/1iI9Vv6h7HQIhAVlkQ/giphy.gif)
+**`Programador FullStack & GameDev`**
+
+
 
 
 ## Principais tecnologias que eu uso
