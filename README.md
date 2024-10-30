@@ -1,9 +1,11 @@
 ## Olá, bem vindo ao meu perfil!!  👋
 
-**`Programador FullStack & GameDev`**
+**`Programador FullStack`**
+**`Desenvolvedor de jogos`**
+## Um pouco sobre mim
+Sou um programador aficionado por obter mais conhecimento e novas experiências com relação as áreas da tecnologia que envolvem sistemas de rede e desenvolvimento de sistemas 
 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Principais tecnologias que eu uso
 
