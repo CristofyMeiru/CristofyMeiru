@@ -1,6 +1,7 @@
 ## Olá, bem vindo ao meu perfil!! 
 
-<span class="wave">👋</span>
+![Emoji acenando](https://media.giphy.com/media/l0Exk8XyG7bHRBC4Y/giphy.gif)
+
 
 <style>
   .wave {
