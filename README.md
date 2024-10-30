@@ -1,4 +1,6 @@
-## Olá, bem vindo ao meu perfil!! <span class="wave">👋</span>
+## Olá, bem vindo ao meu perfil!! 
+
+<span class="wave">👋</span>
 
 <style>
   .wave {
@@ -18,7 +20,7 @@
     100% { transform: rotate(0deg); }
   }
 </style>
- 
+
 
 ## Principais tecnologias que eu uso
 
