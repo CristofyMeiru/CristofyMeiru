@@ -1,4 +1,4 @@
-## Olá, bem vindo ao meu perfil!! <span>👋</span>
+## Olá, bem vindo ao meu perfil!! <span class="wave">👋</span>
 
 <style>
   .wave {
