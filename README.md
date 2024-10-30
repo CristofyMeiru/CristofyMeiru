@@ -1,26 +1,6 @@
-## Olá, bem vindo ao meu perfil!! 
+## Olá, bem vindo ao meu perfil!!  
 
-![Emoji acenando](https://media.giphy.com/media/l0Exk8XyG7bHRBC4Y/giphy.gif)
-
-
-<style>
-  .wave {
-    display: inline-block;
-    animation: wave-animation 1s ease-in-out infinite;
-    transform-origin: 70% 70%;
-  }
-
-  @keyframes wave-animation {
-    0% { transform: rotate(0deg); }
-    10% { transform: rotate(14deg); }
-    20% { transform: rotate(-8deg); }
-    30% { transform: rotate(14deg); }
-    40% { transform: rotate(-4deg); }
-    50% { transform: rotate(10deg); }
-    60% { transform: rotate(0deg); }
-    100% { transform: rotate(0deg); }
-  }
-</style>
+![Emoji mão acenando](https://media.giphy.com/media/1iI9Vv6h7HQIhAVlkQ/giphy.gif)
 
 
 ## Principais tecnologias que eu uso
