@@ -18,7 +18,7 @@ Sou um programador aficionado por obter mais conhecimento e novas experiências 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50" >
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="50" height="50" >
     <img src="https://github.com/yoyogames.png" width="50" height="50" >
-    <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png "  width="50" height="50" >
+    <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png"  width="50" height="50" >
     <img src="https://github.com/nextjs.png"  width="50" height="50" >
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"  width="50" height="50" >
     <img src="https://github.com/mongodb.png"  width="50" height="50" >
