@@ -1,33 +1,27 @@
-## Olá, bem vindo ao meu perfil!!  👋
+## Olá, bem vindo ao meu perfil!! 👋
 
-**`Programador FullStack`**
-**`Desenvolvedor de jogos`**
+**` Programador FullStack `**
+**` Desenvolvedor de Jogos `**
+
 ## Um pouco sobre mim
-Sou um programador aficionado por obter mais conhecimento e novas experiências com relação as áreas da tecnologia que envolvem sistemas de rede e desenvolvimento de sistemas 
+Sou um programador aficionado por obter mais conhecimento e novas experiências com relação as áreas da tecnologia que envolvem sistemas de rede e desenvolvimento de sistemas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristofyMeiru&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-## Principais tecnologias que eu uso
-
-<div style="display; flex; ">
-  <img src="https://github.com/user-attachments/assets/9d044417-2479-4ac1-8f98-0e89226622b2" height="40px" width="40px" alt="JavaScript" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/eac235ce-6f8c-426d-9702-2851b8d00bf9" heigth="40px" width="40px" alt="TypeScript" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/643824fe-4c6c-480f-a708-4a30bb64d728" heigth="40px" width="40px" alt="NodeJS"   style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/3d748cb0-e35d-46a7-8b5a-8abeb4c439c9" heigth="40px" width="40px" alt="ReactJS" />
-  <img src="https://github.com/nextjs.png" alt="Next.js" width="40" height="40" />
+<div style="display: flex;">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=cristofymeiru&show_icons=true&theme=midnight-purple" >
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristofymeiru&layout=compact&theme=midnight-purple" >
 </div>
 
-<!--
-**CristofyMeiru/CristofyMeiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linguagens & Tecnologias que eu uso
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; gap: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="40" height="40" >
+    <img src="https://cdn-icons-png.flaticon.com/512/11516/11516361.png" width="40" height="40" >
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40" >
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="40" height="40" >
+    <img src="https://github.com/yoyogames.png" width="40" height="40" >
+    <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png "  width="40" height="40" >
+    <img src="https://github.com/nextjs.png"  width="40" height="40" >
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"  width="40" height="40" >
+    <img src="https://github.com/mongodb.png"  width="40" height="40" >
+    <img src="https://github.com/mysql.png"  width="40" height="40" >
+</div>
