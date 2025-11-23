@@ -7,7 +7,7 @@
 Sou um programador aficionado por obter mais conhecimento e novas experiências com relação as áreas da tecnologia que envolvem sistemas de rede e desenvolvimento de sistemas.
 
 ## O que estou fazendo atualmente
-- Desenvolvendo aplicações **web** e **mobile** com **React**, **React Native** e **Node.js**  
+- Desenvolvendo aplicações **web** e **mobile** com **React**, **Next.js**, **React Native** e **Node.js**  
 - Trabalhando com arquitetura **multitenant** e **APIs escaláveis**  
 - Estudando **otimização de deploy** e **infraestrutura leve** (Ubuntu, Docker, Cloudflare)
 
