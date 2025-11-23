@@ -12,8 +12,8 @@ Sou um programador aficionado por obter mais conhecimento e novas experiências 
 - Estudando otimização de deploy e infraestrutura leve (Ubuntu, Docker, Cloudflare)
 
 <div style="display: flex;">
-    <img height="160" width="50%" src="https://github-readme-stats.vercel.app/api?username=cristofymeiru&show_icons=true&theme=midnight-purple" >
-    <img height="160" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristofymeiru&layout=compact&theme=midnight-purple" >
+    <img height="160" style="flex: 1;" src="https://github-readme-stats.vercel.app/api?username=cristofymeiru&show_icons=true&theme=midnight-purple" >
+    <img height="160" style="flex: 1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristofymeiru&layout=compact&theme=midnight-purple" >
 </div>
 
 ## Linguagens & Tecnologias que eu uso
